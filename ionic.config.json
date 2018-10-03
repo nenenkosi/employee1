@@ -1,0 +1,7 @@
+{
+  "name": "finalemploy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
